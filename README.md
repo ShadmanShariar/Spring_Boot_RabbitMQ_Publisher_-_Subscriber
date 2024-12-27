@@ -1,2 +1,4 @@
+RabbitMQ is an message broker technology that facilitates communication between different applications or components of a system by using message queues. It implements the Advanced Message Queuing Protocol (AMQP) and supports multiple messaging patterns like publish/subscribe, request/reply, and point-to-point communication. RabbitMQ enables reliable, scalable, and asynchronous data exchange, making it ideal for distributed systems and microservices architectures. It is widely used for decoupling systems, ensuring fault tolerance, and improving application performance.
+
 ![What-is-RabbitMQ](https://github.com/user-attachments/assets/5c6fe5d4-f6fd-4fd1-9e36-00167fb9a6c4)
 ![existing-system-with-stream-fc27ecdcacca5b445c6645cc456eeeac (1)](https://github.com/user-attachments/assets/efbfedb7-4c4d-4aa6-86c7-3dc4f621a659)
